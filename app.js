@@ -1,4 +1,4 @@
-// 🔥 Firebase Config
+//  Firebase Config
 const firebaseConfig = {
   apiKey: "AIzaSyD0sk0HMhE_gCh4yXBNGLUStm9I-oOEy7E",
   authDomain: "parkease-manager-eb15b.firebaseapp.com",
@@ -115,4 +115,5 @@ function carExit() {
     });
   });
 }
+
     
